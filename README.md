@@ -8,6 +8,8 @@
 
 # :scroll: Some historical events
 - 2024: :running_woman: 10 km in 39.19
-- 2024: Learn Advanced Modern C++ on Udemy with James Reynard: [Certificate](http://ude.my/UC-2022438d-23d1-4f71-807b-3213c1cc4762/).
+- 2024: 👩‍🎓
+  -  Robotics and ROS - Learn by Doing! Manipulators Udemy with Antonio Brandi: [Certificate](https://www.udemy.com/certificate/UC-a5e09b5f-a0c1-4a01-824f-bc33d090866a/).
+  - Learn Advanced Modern C++ on Udemy with James Reynard: [Certificate](http://ude.my/UC-2022438d-23d1-4f71-807b-3213c1cc4762/).
 - 2023: :running_woman: 10 km in 41.26
 - 2021: Applying Deep Learning To Improve Optimization-Based Approaches For Robust Sensor Fusion [Master thesis](https://kth.diva-portal.org/smash/record.jsf?pid=diva2%3A1602138&dswid=5157).
